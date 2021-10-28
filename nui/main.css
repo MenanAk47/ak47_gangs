@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'pricedownblack';
+    src: url('gtafont.woff2') format('woff2'), url('gtafont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: 'pricedownblack';
+    font-size: 27.5px;
+}
+
+#content {
+    position: fixed;
+    margin-top: 30px;
+    margin-right: 25px;
+    right: 0;
+}
+
+#content span {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    color: white;
+}
