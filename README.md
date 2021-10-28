@@ -9,7 +9,7 @@
 <li>Add Gang Member With Menu</li>
 <li>Manage Blips for Specific Gang</li>
 <li>Gang Inventory, Cash, Dirty Money, Weapons</li>
-<li>Add Vehicles For Specific Gang </li>
+<li>Add Vehicles For Specific Gang</li>
 </ol>
 <p><strong>Turf Features: </strong></p>
 <ol>
@@ -18,6 +18,15 @@
 <li>Manage Blips For Specific Zone</li>
 <li>Set Minimum Gang Required to Active Turf (config.lua)</li>
 <li>Set Win-Reward For Specific Zones</li>
+</ol>
+<p><strong>How to install:</strong></p>
+<ol>
+<li>Download file as zip</li>
+<li>Rename folder to ak47_gangs</li>
+<li>Install the necessary sql in database</li>
+<li>Set your patreon email in config.lua</li>
+<li>Add this resource at the bottom of your server.cfg</li>
+<li>Restart your server</li>
 </ol>
 <p><strong>Note:</strong> There is no language file so, you can't change the language</p>
 <p><strong>Join discord for support:</strong> <a href="https://discord.gg/RKZcVwh">https://discord.gg/RKZcVwh</a></p>
