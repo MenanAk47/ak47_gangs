@@ -30,3 +30,4 @@
 </ol>
 <p><strong>Note:</strong> There is no language file so, you can't change the language</p>
 <p><strong>Join discord for support:</strong> <a href="https://discord.gg/RKZcVwh">https://discord.gg/RKZcVwh</a></p>
+<p><strong>Note:</strong> We do not support custom frameworks, highly modified versions of ESX, or deprecated/outdated versions of anything.</p>
