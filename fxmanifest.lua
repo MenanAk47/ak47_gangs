@@ -22,6 +22,7 @@ client_scripts {
 	'config.lua',
 	'client/main.lua',
 	'client/loader.lua',
+	'client/utils.lua',
 } 
 
 server_scripts {
